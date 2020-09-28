@@ -1,3 +1,7 @@
 hello new file
 hi new file
 edit via github
+Your answer for What is the difference between add, commit, and push?
+add - means you are adding the files in the staging area
+commit - means you are commiting the changes in staging area
+push -  means you are pushing the local changes to the repository
